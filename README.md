@@ -1,8 +1,14 @@
 # 📝 Livewire TodoList
+
 ![image](https://github.com/user-attachments/assets/3ed19883-aaed-4294-9043-cf072276d41d)
+
+---
+
+## 🇮🇩 Bahasa Indonesia
+
 Proyek sederhana TodoList berbasis **Laravel Livewire**. Dibangun untuk mempraktikkan fitur interaktif tanpa perlu full-page reload. Desain clean menggunakan **TailwindCSS**.
 
-## 🚀 Fitur Utama
+### 🚀 Fitur Utama
 
 - 🔍 **Searching**  
   Cari todo dengan mudah menggunakan keyword. Livewire akan otomatis nge-update datanya secara real-time.
@@ -16,13 +22,13 @@ Proyek sederhana TodoList berbasis **Laravel Livewire**. Dibangun untuk memprakt
 - 🎨 **TailwindCSS**  
   Tampilan clean dan responsive. Nggak ribet styling-nya, semua pakai utility class bawaan Tailwind.
 
-## ⚙️ Tech Stack
+### ⚙️ Tech Stack
 
 - Laravel (Backend)
 - Livewire (Frontend Interactivity)
 - TailwindCSS (Styling)
 
-## 🛠️ Cara Instalasi
+### 🛠️ Cara Instalasi
 
 1. Clone repositori ini:
    ```bash
