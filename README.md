@@ -21,7 +21,6 @@ Proyek sederhana TodoList berbasis **Laravel Livewire**. Dibangun untuk memprakt
 - Laravel (Backend)
 - Livewire (Frontend Interactivity)
 - TailwindCSS (Styling)
-- Alpine.js (optional, buat interaksi tambahan)
 
 ## 🛠️ Cara Instalasi
 
